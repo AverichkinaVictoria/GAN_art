@@ -14,9 +14,13 @@
 ![Иллюстрация к проекту](https://github.com/AverichkinaVictoria/GAN_art/blob/main/results_1.png)
 
 
+
+
 После первых 50 эпох (изображения цветные, но все еще присутствуют пятна):
 
 ![Иллюстрация к проекту](https://github.com/AverichkinaVictoria/GAN_art/blob/main/results_2.png)
+
+
 
 
 После первых 150 эпох (в выборке уже появляются картины, сгенерированные подражанием карандашу, а также светлые пятна – подражания портретам в выборке):
@@ -26,11 +30,15 @@
 ![Иллюстрация к проекту](https://github.com/AverichkinaVictoria/GAN_art/blob/main/results_4.png)
 
 
+
+
 После  220 эпох:
 
 ![Иллюстрация к проекту](https://github.com/AverichkinaVictoria/GAN_art/blob/main/results_5.png)
 
 ![Иллюстрация к проекту](https://github.com/AverichkinaVictoria/GAN_art/blob/main/results_5.png)
+
+
 
 
 Несмотря на достаточно хорошее качество сгенерированных изображений, график функции потерь на каждой итерации показывает, что к концу обучения ошибка генератора стремительно возрастает. 
