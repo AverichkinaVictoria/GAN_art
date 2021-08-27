@@ -17,7 +17,7 @@
 
 
 
-<img src="https://github.com/AverichkinaVictoria/GAN_art/blob/main/results_1.png" width="200" height="400" />
+<img src="https://github.com/AverichkinaVictoria/GAN_art/blob/main/results_1.png" width="200" height="200" />
 
 
 
